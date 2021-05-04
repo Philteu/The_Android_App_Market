@@ -3,3 +3,7 @@ Mobile apps are everywhere. They are easy to create and can be lucrative. Becaus
 
 apps.csv: contains all the details of the apps on Google Play. These are the features that describe an app.
 user_reviews.csv: contains 100 reviews for each app, most helpful first. The text in each review has been pre-processed, passed through a sentiment analyzer engine and tagged with its sentiment score.
+<br> 
+
+![Google Play](image/image-20200402152420990.png)
+
